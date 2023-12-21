@@ -1,0 +1,44 @@
+.border-sec{
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px;
+    transition: 0.5s;
+}
+
+.border-sec:hover{
+   box-shadow: 0 0 20px;
+   transition: 0.5s;
+}
+
+ img{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+ }
+
+ .card-details{
+    text-align: left;
+ }
+
+ .link{
+   color: #fff;
+   text-decoration: none;
+ }
+
+ .moviename{
+   font-size: 18px;
+    font-weight: 700;
+    color:skyblue;
+ }
+
+ .movieName{
+   font-size: 16px;
+ }
+ .ratingspan{
+   color:skyblue;
+    font-size: 17px;
+    font-weight: 700;
+ }
+ .ratings{
+   font-size: 16px;
+   font-weight: 600;
+ }

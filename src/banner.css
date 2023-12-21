@@ -1,0 +1,37 @@
+.bannerimg1{
+    background-color: #000;
+    height: 300px;
+    color: #fff;
+    width: 100%;
+    background-image: url('../public/images/300.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: contain;
+}
+.bannerimg2{
+    background-color: #000;
+    height: 300px;
+    color: #fff;
+    width: 100%;
+    background-image: url('../public/images/img3.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: contain;
+}
+.bannerimg3{
+    background-color: #000;
+    height: 300px;
+    color: #fff;
+    width: 100%;
+    background-image: url('../public/images/movie1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: contain;
+}
+
+.section{
+    margin:25px;
+}
